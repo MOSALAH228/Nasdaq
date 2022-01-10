@@ -1,20 +1,20 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-// import { StyleSheet, Text, View } from "react-native";
-// import { NativeBaseProvider } from "native-base";
-// import { createNativeStackNavigator } from "@react-navigation/native-stack";
-// import { NavigationContainer } from "@react-navigation/native";
+import { StyleSheet, Text, View } from "react-native";
+import { NativeBaseProvider } from "native-base";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { NavigationContainer } from "@react-navigation/native";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import SplachScreen from "./Components/SplachScreen";
 import Home from "./Components/Home";
 import Details from "./Components/Details";
 
-// const Navigator = createNativeStackNavigator();
+const Navigator = createNativeStackNavigator();
 export default function App() {
   return (
     <SafeAreaProvider>
-      <SplachScreen></SplachScreen>
-
+      {/* <SplachScreen></SplachScreen> */}
+      <Details></Details>
       {/* <NativeBaseProvider>
         <NavigationContainer>
           <Navigator.Navigator>

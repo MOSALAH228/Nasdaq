@@ -34,7 +34,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -68,7 +68,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -102,7 +102,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -136,7 +136,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -170,7 +170,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -204,7 +204,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -238,7 +238,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -272,7 +272,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -306,7 +306,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -340,7 +340,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -374,7 +374,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
@@ -408,7 +408,7 @@ export default function Home() {
               paddingBottom: 20,
             }}
           >
-            Apple co
+            Apple Inc
           </Text>
           <View
             style={{
